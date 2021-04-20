@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi, </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-My name is **Rafael Castro** 👨🏻‍🎓 21y<br>
+My name is **Rafael Castro** 👨🏻‍🎓 <br>
 On my second degree in **Data base** at Fatec São José dos Campos
 - 🎓 Graduated in **System Analysis and Development (Etep - 2020).** 
 - 📍 From <b> São José dos Campos - São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil </b>.
