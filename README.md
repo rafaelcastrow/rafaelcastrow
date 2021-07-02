@@ -5,7 +5,7 @@ My name is **Rafael Castro** 👨🏻‍🎓 <br>
 On my second degree in **Data base** at Fatec São José dos Campos
 - 🎓 Graduated in **System Analysis and Development (Etep - 2020).** 
 - 📍 From <b> São José dos Campos - São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil </b>.
-- 📖 Currently I have been studying Javascript and React Native.
+- 📖 Currently I have been studying Javascript, HTML and CSS.
 <br>
 Bellow my language skills :rocket:
 <p>
